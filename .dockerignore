@@ -1,0 +1,10 @@
+node_modules/
+tests/
+actions/
+.env
+.git
+heroku.yml
+README.md
+trybe.yml
+jest.*
+.eslint*

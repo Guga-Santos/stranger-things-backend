@@ -1,0 +1,44 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Verifica as variáveis de ambiente",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Verifica o arquivo Dockerfile",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Verifica o arquivo heroku.yml",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Verifica as configurações da Action de linter",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Verifica o Deploy no Heroku",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    }
+  ]
+}

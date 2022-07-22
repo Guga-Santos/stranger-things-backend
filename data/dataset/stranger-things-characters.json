@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Martin",
+    "status": "Alive",
+    "origin": "Hawkings National Laboratory"
+  },
+  {
+    "name": "Sam",
+    "status": "Alive",
+    "origin": "Hawkings National Laboratory"
+  },
+  {
+    "name": "Connie",
+    "status": "Deceased",
+    "origin": "Hawkings National Laboratory"
+  },
+  {
+    "name": "Shepard",
+    "status": "Deceased",
+    "origin": "Hawkings National Laboratory"
+  },
+  {
+    "name": "Mike",
+    "status": "Alive",
+    "origin": "Wheeler Family"
+  },
+  {
+    "name": "Karen",
+    "status": "Alive",
+    "origin": "Wheeler Family"
+  },
+  {
+    "name": "Holly",
+    "status": "Alive",
+    "origin": "Wheeler Family"
+  },
+  {
+    "name": "Ted",
+    "status": "Alive",
+    "origin": "Wheeler Family"
+  },
+  {
+    "name": "Nancy",
+    "status": "Alive",
+    "origin": "Wheeler Family"
+  },
+  {
+    "name": "Dustin",
+    "status": "Alive",
+    "origin": "Henderson Family"
+  },
+  {
+    "name": "Claudia",
+    "status": "Alive",
+    "origin": "Henderson Family"
+  },
+  {
+    "name": "Lucas",
+    "status": "Alive",
+    "origin": "Sinclair Family"
+  },
+  {
+    "name": "Mr. Sinclair",
+    "status": "Alive",
+    "origin": "Sinclair Family"
+  },
+  {
+    "name": "Mrs. Sinclair",
+    "status": "Alive",
+    "origin": "Sinclair Family"
+  },
+  {
+    "name": "Erica",
+    "status": "Alive",
+    "origin": "Sinclair Family"
+  },
+  {
+    "name": "Will",
+    "status": "Alive",
+    "origin": "Byers Family"
+  },
+  {
+    "name": "Joyce",
+    "status": "Alive",
+    "origin": "Byers Family"
+  },
+  {
+    "name": "Jonathan",
+    "status": "Alive",
+    "origin": "Byers Family"
+  },
+  {
+    "name": "Lonnie",
+    "status": "Alive",
+    "origin": "Byers Family"
+  },
+  {
+    "name": "Mind Flayer (Shadow Form)",
+    "status": "Alive",
+    "origin": "The Upside Down"
+  },
+  {
+    "name": "Mind Flayer (Proxy Form)",
+    "status": "Deceased",
+    "origin": "The Upside Down"
+  },
+  {
+    "name": "D'Artagnan",
+    "status": "Deceased",
+    "origin": "The Upside Down"
+  },
+  {
+    "name": "Demogorgon",
+    "status": "Deceased",
+    "origin": "The Upside Down"
+  },
+  {
+    "name": "Troy",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "James",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Scott",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Russell",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Greg",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Jennifer",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Stacey",
+    "status": "Alive",
+    "origin": "Hawkings Middle School"
+  },
+  {
+    "name": "Marsha",
+    "status": "Alive",
+    "origin": "Holland Family"
+  },
+  {
+    "name": "Mr. Holland",
+    "status": "Alive",
+    "origin": "Holland Family"
+  },
+  {
+    "name": "Barbara",
+    "status": "Deceased",
+    "origin": "Holland Family"
+  },
+  {
+    "name": "Steve",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Tommy",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Carol",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Ally",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Nicole",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Reed",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Robin",
+    "status": "Alive",
+    "origin": "Hawkings High School"
+  },
+  {
+    "name": "Eleven",
+    "status": "Alive",
+    "origin": "Hopper Family"
+  },
+  {
+    "name": "Diane",
+    "status": "Alive",
+    "origin": "Hopper Family"
+  },
+  {
+    "name": "Jim",
+    "status": "Unknown",
+    "origin": "Hopper Family"
+  },
+  {
+    "name": "Sarah",
+    "status": "Deceased",
+    "origin": "Hopper Family"
+  },
+  {
+    "name": "Calvin",
+    "status": "Alive",
+    "origin": "Hawkings Police Department"
+  },
+  {
+    "name": "Phil",
+    "status": "Alive",
+    "origin": "Hawkings Police Department"
+  },
+  {
+    "name": "Florence",
+    "status": "Alive",
+    "origin": "Hawkings Police Department"
+  },
+  {
+    "name": "Becky",
+    "status": "Alive",
+    "origin": "Ives Family"
+  },
+  {
+    "name": "Terry",
+    "status": "Alive",
+    "origin": "Ives Family"
+  },
+  {
+    "name": "Brenda",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Donald",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Marissa",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Earl",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Jeffrey",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Charles",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Robert",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Sandra",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Jen",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Gary",
+    "status": "Alive",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Patty",
+    "status": "Deceased",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Henry",
+    "status": "Deceased",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Benny",
+    "status": "Deceased",
+    "origin": "Hawkings Residents"
+  },
+  {
+    "name": "Patrick",
+    "status": "Alive",
+    "origin": "State Police"
+  },
+  {
+    "name": "David",
+    "status": "Unknown",
+    "origin": "State Police"
+  },
+  {
+    "name": "Cynthia",
+    "status": "Alive",
+    "origin": "Miscellaneous"
+  }
+]
