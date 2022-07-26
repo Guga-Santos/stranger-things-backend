@@ -6,11 +6,14 @@ jobs:
     steps:
         - name: Verificando repositório Git
           uses: actions/checkout@v2
+
         - name: Instalando node na versão 12
           uses: actions/setup-node@v1
           with:
             node-version: 12
+
         - name: Instalando dependências
           run: npm install
+          
         - name: Verificando erros de Lint
           run: npx eslint . 
