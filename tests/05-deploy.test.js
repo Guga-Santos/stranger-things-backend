@@ -33,7 +33,7 @@ describe('5 - Verifica o Deploy no Heroku', () => {
         .then((response) => {
           const { body } = response;
           JSON.parse(body).forEach((character) => {
-            expect(flipData).toContainEqual(character);
+            expect(flipData[0]).toContainEqual(character);
           });
         });
   });
