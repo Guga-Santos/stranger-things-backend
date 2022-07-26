@@ -19,7 +19,7 @@ app.use(cors());
 
 const { PORT, UPSIDEDOWN_MODE } = process.env;
 
-const hereIsTheUpsideDown = UPSIDEDOWN_MODE === 'true';
+const hereIsTheUpsideDown = UPSIDEDOWN_MODE === 'hawkins';
 
 console.log(hereIsTheUpsideDown);
 
