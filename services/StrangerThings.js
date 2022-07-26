@@ -18,7 +18,7 @@ class StrangerThingsService {
       }));
     }
 
-    return characters[0];
+    return characters;
   }
 }
 
